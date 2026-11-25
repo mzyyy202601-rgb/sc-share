@@ -1,0 +1,17 @@
+{
+  "name": "travel-guide-route-core",
+  "version": "1.0.0",
+  "private": true,
+  "description": "「晨的旅行助手」路线排序模块：最近邻贪心 + 2-opt、带权游标最近邻分日排程、顺路度评分",
+  "main": "src/route_demo.js",
+  "scripts": {
+    "demo": "node src/route_demo.js",
+    "test": "node tests/test_route.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["travel", "route-optimization", "tsp", "2-opt", "wechat-miniprogram"],
+  "license": "MIT",
+  "dependencies": {}
+}

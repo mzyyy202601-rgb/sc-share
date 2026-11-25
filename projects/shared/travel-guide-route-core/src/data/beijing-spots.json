@@ -1,0 +1,19 @@
+[
+  { "name": "天安门广场", "periods": ["上午", "下午"], "hours": 0.8, "effort": 1, "lat": 39.909, "lon": 116.397, "approx": false },
+  { "name": "故宫博物院", "periods": ["上午", "下午"], "hours": 3.5, "effort": 2, "lat": 39.915, "lon": 116.393, "approx": false },
+  { "name": "国家博物馆", "periods": ["上午", "下午"], "hours": 3.0, "effort": 2, "lat": 39.905, "lon": 116.401, "approx": false },
+  { "name": "景山公园", "periods": ["下午", "傍晚"], "hours": 1.2, "effort": 2, "lat": 39.926, "lon": 116.397, "approx": false },
+  { "name": "北海公园", "periods": ["上午", "下午"], "hours": 2.0, "effort": 1, "lat": 39.929, "lon": 116.392, "approx": false },
+  { "name": "恭王府", "periods": ["上午", "下午"], "hours": 1.5, "effort": 1, "lat": 39.937, "lon": 116.386, "approx": false },
+  { "name": "什刹海", "periods": ["傍晚", "晚上"], "hours": 1.5, "effort": 1, "lat": 39.942, "lon": 116.385, "approx": false },
+  { "name": "南锣鼓巷", "periods": ["傍晚", "晚上"], "hours": 1.5, "effort": 1, "lat": 39.937, "lon": 116.402, "approx": false },
+  { "name": "雍和宫", "periods": ["上午", "下午"], "hours": 1.5, "effort": 1, "lat": 39.947, "lon": 116.417, "approx": false },
+  { "name": "天坛公园", "periods": ["上午", "下午"], "hours": 2.5, "effort": 2, "lat": 39.882, "lon": 116.411, "approx": false },
+  { "name": "前门大街", "periods": ["晚上"], "hours": 1.5, "effort": 1, "lat": 39.896, "lon": 116.404, "approx": false },
+  { "name": "颐和园", "periods": ["上午", "下午"], "hours": 4.0, "effort": 3, "lat": 40.0, "lon": 116.275, "approx": false },
+  { "name": "圆明园", "periods": ["上午", "下午"], "hours": 3.0, "effort": 2, "lat": 40.007, "lon": 116.301, "approx": false },
+  { "name": "798艺术区", "periods": ["下午", "晚上"], "hours": 2.5, "effort": 2, "lat": 39.984, "lon": 116.496, "approx": false },
+  { "name": "香山公园", "periods": ["上午", "下午"], "hours": 3.5, "effort": 3, "lat": 39.99, "lon": 116.189, "approx": false },
+  { "name": "明十三陵", "periods": ["上午", "下午"], "hours": 3.0, "effort": 2, "lat": 40.281, "lon": 116.236, "approx": false },
+  { "name": "八达岭长城", "periods": ["全天"], "hours": 5.0, "effort": 3, "lat": 40.356, "lon": 116.017, "approx": false }
+]

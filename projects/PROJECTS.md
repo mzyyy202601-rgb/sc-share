@@ -7,6 +7,7 @@
 | 项目名称 | 方向 | 负责人 | 成员 | 状态 | 项目目录 | 演示或文档 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 待提交 | - | - | - | 筹备中 | - | - |
+| 晨的旅行助手 · 路线排序模块 | 新工科 · 智慧文旅 | 陈乾源 | 二组（陈乾源、郭紫彤、韩易彤、王丽艳、孟想、郭子豪、韩玮婷） | 可运行 | [`projects/shared/travel-guide-route-core/`](shared/travel-guide-route-core/) | [README（含运行截图）](shared/travel-guide-route-core/README.md) |
 
 ## 个人项目分享
 
